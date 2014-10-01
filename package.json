@@ -1,0 +1,18 @@
+{
+  "name": "2dmap",
+  "version": "0.0.0",
+  "description": "A simple coordinate map for 2d games",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jeffcarp/2dmap.git"
+  },
+  "author": "Jeff Carpenter",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jeffcarp/2dmap/issues"
+  }
+}
