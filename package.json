@@ -2,7 +2,7 @@
   "name": "2dmap",
   "version": "0.0.0",
   "description": "A simple coordinate map for 2d games",
-  "main": "main.js",
+  "main": "map.js",
   "scripts": {
     "test": "mocha spec"
   },
@@ -14,5 +14,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/jeffcarp/2dmap/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4"
   }
 }
