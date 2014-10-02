@@ -1,5 +1,7 @@
 # 2dmap
 
+[![NPM version](https://badge.fury.io/js/2dmap.svg)](http://badge.fury.io/js/2dmap)
+
 A simple coordinate map for use in 2d games. Extracted from [vida](https://github.com/jeffcarp/vida).
 
 ## On the server
