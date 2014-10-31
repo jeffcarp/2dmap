@@ -1,6 +1,7 @@
 # 2dmap
 
 [![NPM version](https://badge.fury.io/js/2dmap.svg)](http://badge.fury.io/js/2dmap)
+[![Build Status](https://travis-ci.org/jeffcarp/2dmap.svg?branch=master)](https://travis-ci.org/jeffcarp/2dmap)
 
 A simple coordinate map for use in 2d games. Extracted from [vida](https://github.com/jeffcarp/vida).
 
